@@ -117,3 +117,7 @@ variation from lesson 2's go-deeper. Big editor font for any code on screen.
 - **Alt-text:** Screen capture of a calm gallery app: shelves of small
   turning wireframe cards; one is dragged and turns; beside it, a
   hand-built cube turns the same way.
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

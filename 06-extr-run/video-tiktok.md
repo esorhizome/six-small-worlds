@@ -106,3 +106,7 @@ run. The three lessons that build it are free.
 **Hashtags:** #gamedev #indiegame #endlessrunner #gamedesign #cozygames
 
 **CTA:** "Full build, free — link in bio: Six Small Worlds, World 6 (E16–E18)."
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

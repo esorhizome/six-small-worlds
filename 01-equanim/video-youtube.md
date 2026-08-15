@@ -140,3 +140,7 @@ quiet unison. Text: "World 2 — upgrade Biotech. E04 — The sunflower rule."
 **Spoken:** "What exists now: your own turning gallery card, from nothing.
 Next episode, a single angle grows a garden. And the real game? Every card in
 equanim is this, 2,756 times."
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

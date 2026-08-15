@@ -110,3 +110,7 @@ Poisson arrivals, rose-curve dances. Episodes E07–E09 of the long course.
 Link in bio.
 **Note:** if used in the release window, this slot swaps to the store-page
 reveal per the course map.
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
