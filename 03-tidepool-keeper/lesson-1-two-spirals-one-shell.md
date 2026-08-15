@@ -268,3 +268,7 @@ alive. Everything below is a bonus for the curious.
 - **House favourite:** Daniel Shiffman, *The Nature of Code* (free,
   [natureofcode.com](https://natureofcode.com)) — a gentle home for
   polar-to-screen conversions and much else.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

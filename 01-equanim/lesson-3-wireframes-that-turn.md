@@ -330,3 +330,7 @@ Answers are at the very bottom of this page.
    in the go-deeper, so long as the shape has no holes.
 
 </details>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

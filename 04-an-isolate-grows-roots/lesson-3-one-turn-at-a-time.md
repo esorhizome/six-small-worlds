@@ -409,3 +409,7 @@ running, so the click is answered with a ring and nothing else. 3. The
 eased one: the slope of 1 − (1 − t)³ flattens to zero at t = 1, so it
 decelerates into stillness — settling, like a living thing — where linear
 motion stops like a switch was thrown.</sub>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

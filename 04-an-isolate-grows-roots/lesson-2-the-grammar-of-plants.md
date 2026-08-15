@@ -371,3 +371,7 @@ falls back to the letter itself (`RULES.get(c, c)`); no rule means no
 change. 3. About four times more — 6,263 symbols. Grow it. (Each `X`
 becomes eighteen symbols containing four new `X`s, so the sentence roughly
 quadruples per generation.)</sub>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

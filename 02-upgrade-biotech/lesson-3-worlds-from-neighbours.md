@@ -326,3 +326,7 @@ bytes, four universes, one loom — that is the lesson, and you built it.
 
 **Next world:** [Tidepool Keeper](../03-tidepool-keeper/) — two spirals, one
 shell, and the genre's kindest mechanic. (E07 in the long course.)
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

@@ -353,3 +353,7 @@ are correct.
 - **House favourite:** Daniel Shiffman, *The Nature of Code* (free,
   [natureofcode.com](https://natureofcode.com)) — the randomness chapter, for
   more ways to make chance feel like weather instead of dice.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

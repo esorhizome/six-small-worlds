@@ -488,3 +488,7 @@ is bonus.
 - **Secondary (free):** NOAA Ocean Exploration education pages,
   [oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov) — marine snow, the
   real slow fall that feeds the deep.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

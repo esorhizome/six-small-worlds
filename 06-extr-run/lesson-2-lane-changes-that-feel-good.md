@@ -339,3 +339,7 @@ rather than a mystery. Everything below is bonus.
    answered at the start of the curve, where it counts.
 
 </details>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
