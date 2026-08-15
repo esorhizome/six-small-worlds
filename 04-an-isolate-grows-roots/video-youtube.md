@@ -131,3 +131,7 @@ with a gentle ring.
 > Isolate Grows Roots*, the progress bar is alive, and patience is the
 > mechanic. Next episode we leave the forest for the ocean, and find out
 > why the deep is dark — it's one equation. Bring a torch."
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

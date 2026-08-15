@@ -128,3 +128,7 @@ the world's only ask, per the format contract.)
 **Alt-text:** A montage: a glowing circle fades with ocean depth, snow
 particles drift on currents, a fish school moves with no leader, and a
 shimmering fish becomes clear; end card points to a free course.
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

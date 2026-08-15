@@ -161,3 +161,7 @@ hundred and fifty-five."
   of Idle Games" (GDC, free on YouTube)
 - House rule: the stop-here line is at 7:50. Stopping there counts as
   finishing.
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

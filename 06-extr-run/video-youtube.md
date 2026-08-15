@@ -121,3 +121,7 @@ spoken line:
   finishing; so does shipping.
 - **One breath of the game:** "EXTR's bosses are curious, not controlling — and
   so is this difficulty curve."
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

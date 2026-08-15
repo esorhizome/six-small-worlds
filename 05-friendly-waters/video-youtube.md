@@ -113,3 +113,7 @@ chaos, swelling, splitting around nothing, re-merging. One line:
 **Description links:** repo → `05-friendly-waters/lesson-3-a-school-that-thinks-together.md`
 → sources (pin Reynolds's free boids page, red3d.com/cwr/boids, plus
 natureofcode.com and Gerringer et al. 2017).
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

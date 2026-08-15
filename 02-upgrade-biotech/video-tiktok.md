@@ -122,3 +122,7 @@ Lessons linked in bio.
 **Alt text:** Gameplay of an idle game showing galleries of code-drawn
 flowers, textured habitats and string-art circles, intercut with the same
 patterns running in a code editor.
+
+---
+
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
