@@ -85,5 +85,12 @@ new; drop in anywhere if you're not.
 
 ## Licence
 
-Code: MIT. Lesson text and video scripts: CC BY 4.0. The six games themselves
-are **not** part of this licence; they remain the studio's own.
+Two licences, by material:
+
+- **Code** (starter files, the playtest harness): MIT — see [LICENSE](LICENSE).
+- **Lesson text and video scripts**: Creative Commons Attribution 4.0
+  International — see [LICENSE-docs](LICENSE-docs). Attribute to
+  "esorhizome OÜ, Six Small Worlds".
+
+The six games themselves are **not** part of either licence; they remain the
+studio's own.
