@@ -275,3 +275,7 @@ the reward that is also the collection. Below is bonus territory.
 - **House favourite:** Daniel Shiffman, *The Nature of Code* (free,
   [natureofcode.com](https://natureofcode.com)) — angles, oscillation, and
   polar coordinates, gently.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

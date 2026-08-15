@@ -425,3 +425,7 @@ economy. Everything below is bonus.
   [oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov) — the five ocean
   zones and their depths; the photic zone's ~200 m floor; sunlight effectively
   absent below ~1,000 m; hadal depths to ~11 km (Challenger Deep ≈ 10,935 m).
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

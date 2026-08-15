@@ -414,3 +414,7 @@ a designer chooses, not the way dice stumble.)
    next. Three in a row would need a repeat inside a bag, which dealing forbids.
 
 </details>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

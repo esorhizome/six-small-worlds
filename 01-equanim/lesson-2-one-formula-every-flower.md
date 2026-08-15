@@ -363,3 +363,7 @@ Answers are at the very bottom of this page.
    lost.
 
 </details>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

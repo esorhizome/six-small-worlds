@@ -355,3 +355,7 @@ one-times table has no gossip.)
 
 **Next lesson:** [Worlds From Neighbours](lesson-3-worlds-from-neighbours.md)
 — one row of cells, one byte, and an entire habitat grows down your screen.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

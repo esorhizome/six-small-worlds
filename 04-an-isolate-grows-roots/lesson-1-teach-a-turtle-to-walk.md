@@ -311,3 +311,7 @@ that border once, at the top. 3. The pen would never come back from that
 bookmark — the branch would keep the pen, and everything after it would grow
 from the branch tip instead of the stem. (Try it: deleting one `]` is a
 legal experiment, and the mutant sprig is its own reward.)</sub>
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*

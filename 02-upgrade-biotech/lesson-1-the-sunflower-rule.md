@@ -309,3 +309,7 @@ rim is always the newest growth, so the bloom reads outward, the way it grew.
 **Next lesson:** [A Garden From an Equation](lesson-2-a-garden-from-an-equation.md)
 — one equation with one dial grows 26 different flowers, and then the
 two-times table folds itself into a heart.
+
+---
+
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
