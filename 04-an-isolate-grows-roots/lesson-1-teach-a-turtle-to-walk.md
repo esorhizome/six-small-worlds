@@ -269,7 +269,7 @@ func _draw() -> void:
 ```
 
 **Expected:** a small fern sprig — a stem with paired branches, each branch
-carrying two little leaflets, and a canopy at the top. Read the command
+carrying two little leaflets, and a tuft at the top. Read the command
 string slowly and you can hear it: *stem, stem, (branch left: stem, (leaflet
 left) (leaflet right)), (same on the right), stem, (leaflet) (leaflet), tip.*
 
@@ -279,7 +279,7 @@ speaks this exact language. The only thing wrong with our sprig is that a
 human had to type every letter. Lesson 2 fixes that: the string will write
 itself.
 
-Open-ended prompt: hand-write a string that draws a comb. Then a canopy. Then
+Open-ended prompt: hand-write a string that draws a comb. Then a snowflake. Then
 an antler. Notice which of the three wants bookmarks and which don't.
 
 ## Check yourself
