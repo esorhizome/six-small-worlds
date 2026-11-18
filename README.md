@@ -90,7 +90,7 @@ Two licences, by material:
 - **Code** (starter files, the playtest harness): MIT — see [LICENSE](LICENSE).
 - **Lesson text and video scripts**: Creative Commons Attribution 4.0
   International — see [LICENSE-docs](LICENSE-docs). Attribute to
-  "esorhizome OÜ, Six Small Worlds".
+  "Sarah Clemencia Gomes (esorhizome), Six Small Worlds".
 
 The six games themselves are **not** part of either licence; they remain the
 studio's own.

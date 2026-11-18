@@ -125,4 +125,4 @@ patterns running in a code editor.
 
 ---
 
-*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
+*Script text: [CC BY 4.0](../LICENSE-docs) — attribute to "Sarah Clemencia Gomes (esorhizome), Six Small Worlds". Code within it: [MIT](../LICENSE).*

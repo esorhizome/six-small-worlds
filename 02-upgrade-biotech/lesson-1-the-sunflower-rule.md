@@ -312,4 +312,4 @@ two-times table folds itself into a heart.
 
 ---
 
-*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "esorhizome OÜ, Six Small Worlds". Code within it: [MIT](../LICENSE).*
+*Lesson text: [CC BY 4.0](../LICENSE-docs) — attribute to "Sarah Clemencia Gomes (esorhizome), Six Small Worlds". Code within it: [MIT](../LICENSE).*
